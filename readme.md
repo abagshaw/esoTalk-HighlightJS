@@ -8,7 +8,6 @@ Easily add code highlighting to conversations.
 2. Extract archive and rename folder to 'HighlightJS' without quotes
 3. Upload folder to the plugins folder /addons/plugins
 4. Enable plugin in admin panel
-5. 
 
 #### Changing HighlightJS Style
 ---------------------------------------
