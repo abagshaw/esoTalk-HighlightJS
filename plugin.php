@@ -7,7 +7,7 @@ ET::$pluginInfo["HighlightJS"] = array(
 	"description" => "Adds code highlighting to discussions.",
 	"version" => "0.1",
 	"author" => "Andrew Bagshaw",
-	"authorEmail" => "abagshaw@hotmail.ca",
+	"authorEmail" => "",
 	"authorURL" => "",
 	"license" => "MIT"
 );
