@@ -1,8 +1,8 @@
-## esoTalk HighlightJS
+## esoTalk HighlightJS Plugin
 
 Easily add code highlighting to conversations.
 
-### Installing HighlightJS
+### Installing the HighlightJS Plugin
 ---------------------------------------
 1. [Download](https://github.com/abagshaw/esoTalk-HighlightJS/archive/master.zip)
 2. Extract archive and rename folder to 'HighlightJS' without quotes
